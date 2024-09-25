@@ -669,6 +669,30 @@
 		"field_label_total_population": null,
 		"language_variable_quality": 8.0,
 		"source_ref": "sn2013a"
+	},
+	{
+		"dataset_name": "Mali Census 2009 (IPUMS extract)",
+		"language": "en",
+		"source": "ipumsi",
+		"datetime_published": "2009-12-31",
+		"scope_geography": {
+			"countries": "Mali"
+		},
+		"field_label_location_adm_0": "COUNTRY",
+		"field_label_location_adm_1": "GEOLEV1",
+		"field_label_location_adm_2": "GEOLEV2",
+		"field_label_location_adm_3": null,
+		"field_label_main_language": "ML2009A_LANGFLU",
+		"field_label_other_language": "ML2009A_LANGNAT",
+		"field_label_population_group": null,
+		"field_label_record_datetime": "YEAR",
+		"field_label_language_value_proportion": null,
+		"field_label_language_value_individuals": null,
+		"other_required_fields": "SERIAL, PERSONS",
+		"field_label_weight": "HHWT",
+		"field_label_total_population": null,
+		"language_variable_quality": 8.0,
+		"source_ref": "ml2009a"
 	}
 	
 ]
