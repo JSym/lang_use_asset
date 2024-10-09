@@ -692,7 +692,7 @@
 		"field_label_location_level_2": "GEOLEV2",
 		"field_label_location_level_3": null,
 		"field_label_main_language": "GT2002A_MTONGUE",
-		"field_label_other_language": "GT2002A_LANG,GT2002A_LANG2",
+		"field_label_other_language": "GT2002A_LANG, GT2002A_LANG2",
 		"field_label_population_group": null,
 		"field_label_record_datetime": "YEAR",
 		"field_label_language_value_proportion": null,
