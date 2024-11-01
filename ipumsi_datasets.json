@@ -607,7 +607,9 @@
 		"field_label_weight": "HHWT",
 		"field_label_total_population": "STRATA",
 		"language_variable_quality": 8.0,
-		"source_ref": "sn2002a"
+		"source_ref": "sn2002a",
+		"representivity_rating":"very_high",
+		"variable_quality_rating":"moderate"
 	},
 	{
 		"dataset_id": 14,
@@ -653,7 +655,9 @@
 		"field_label_weight": "HHWT",
 		"field_label_total_population": null,
 		"language_variable_quality": 8.0,
-		"source_ref": "sn2013a"
+		"source_ref": "sn2013a",
+		"representivity_rating":"very_high",
+		"variable_quality_rating":"high"
 	},
 	{
 		"dataset_name": "Mali Census 2009 (IPUMS extract)",
@@ -677,7 +681,10 @@
 		"field_label_weight": "HHWT",
 		"field_label_total_population": null,
 		"language_variable_quality": 8.0,
-		"source_ref": "ml2009a"
+		"source_ref": "ml2009a",
+		
+		"representivity_rating":"very_high",
+		"variable_quality_rating":"moderate"
 	},
 	{
 		"dataset_name": "Guatemala Census 2002 (IPUMS extract)",
@@ -701,6 +708,8 @@
 		"field_label_weight": "HHWT",
 		"field_label_total_population": null,
 		"language_variable_quality": 7.0,
-		"source_ref": "gt2002a"
+		"source_ref": "gt2002a",
+		"representivity_rating":"very_high",
+		"variable_quality_rating":"moderate"
 	}
 ]
