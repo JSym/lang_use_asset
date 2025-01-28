@@ -138,6 +138,7 @@
         "field_label_location_level_0": "COUNTRY",
         "field_label_location_level_1": "GEOLEV1",
         "field_label_location_level_2": "GEOLEV2",
+        "field_label_location_level_3": "BO2012A_RESMUNI",
         "field_label_main_language": "BO2012A_LANG1",
         "field_label_other_language": "BO2012A_LANG2,BO2012A_LANG3,BO2012A_LANG4,BO2012A_LANG5,BO2012A_MTONG",
         "field_label_record_datetime": "YEAR",
