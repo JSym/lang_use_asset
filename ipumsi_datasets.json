@@ -138,7 +138,6 @@
         "field_label_location_level_0": "COUNTRY",
         "field_label_location_level_1": "GEOLEV1",
         "field_label_location_level_2": "GEOLEV2",
-        "field_label_location_level_3": "BO2012A_RESMUNI",
         "field_label_main_language": "BO2012A_LANG1",
         "field_label_other_language": "BO2012A_LANG2,BO2012A_LANG3,BO2012A_LANG4,BO2012A_LANG5,BO2012A_MTONG",
         "field_label_record_datetime": "YEAR",
@@ -527,5 +526,40 @@
         "representivity_rating": "very_high",
         "variable_quality_rating": "very_low",
         "source_ref": "ht1982a"
+    },
+        {
+        "dataset_name": "Bolivia Census 2012 (IPUMS extract) 2",
+        "language": "en",
+        "datetime_published": "2012-12-31",
+        "scope_geography": "{\"countries\": \"Bolivia\"}",
+        "field_label_location_level_0": "COUNTRY",
+        "field_label_location_level_1": "GEOLEV1",
+        "field_label_location_level_2": "GEOLEV2",
+        "field_label_location_level_3": "BO2012A_RESMUNI",
+        "field_label_main_language": "BO2012A_LANG1",
+        "field_label_other_language": "BO2012A_LANG2,BO2012A_LANG3,BO2012A_LANG4,BO2012A_LANG5,BO2012A_MTONG",
+        "field_label_record_datetime": "YEAR",
+        "other_required_fields": "SERIAL, PERSONS",
+        "field_label_weight": "HHWT",
+        "representivity_rating": "very_high",
+        "variable_quality_rating": "high",
+        "source_ref": "bo2012a"
+    },
+        {
+        "dataset_name": "Bolivia Census 2012 (IPUMS extract) 3",
+        "language": "en",
+        "datetime_published": "2012-12-31",
+        "scope_geography": "{\"countries\": \"Bolivia\"}",
+        "field_label_location_level_0": "COUNTRY",
+        "field_label_location_level_1": "GEOLEV1",
+        "field_label_location_level_2": "BO2012A_RESMUNI",
+        "field_label_main_language": "BO2012A_LANG1",
+        "field_label_other_language": "BO2012A_LANG2,BO2012A_LANG3,BO2012A_LANG4,BO2012A_LANG5,BO2012A_MTONG",
+        "field_label_record_datetime": "YEAR",
+        "other_required_fields": "SERIAL, PERSONS",
+        "field_label_weight": "HHWT",
+        "representivity_rating": "very_high",
+        "variable_quality_rating": "high",
+        "source_ref": "bo2012a"
     }
 ]
