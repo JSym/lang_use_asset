@@ -1,0 +1,54 @@
+[
+    {
+        "dataset_name": "REACH NGA MSNI Analysis North East Nigeria MSNA 2021 December 2021",
+        "url": "https://repository.impact-initiatives.org/document/impact/548403f5/REACH-NGA-MSNI-Analysis-North-East-Nigeria-MSNA-2021-December-2021.xlsx",
+        "sheet_name":"NGA_2021_MSNA_HHSurvey",
+        "language": "en",
+        "datetime_published": "2022-03-23",
+        "scope_geography": "{\"countries\": \"Nigeria\"}",
+        "key_mapping_rules": {
+            "location_0": "consent_state_face",
+            "location_1": "consent_lga_face",
+            "location_2": "consent_ward_face",
+            "sample_weight_0":"weights",
+            "sample_weight_1":"",
+            "sample_weight_2":"",
+            "individuals_value":"hohh_number",
+            "proportion_value":"",
+            "language_0":"questionnaire_aap_communication_hh_main_language_spoken",
+            "language_0_other":"questionnaire_aap_communication_hh_main_language_spoken_other",
+            "language_1":"questionnaire_aap_communication_lang_receive_written_infor",
+            "language_1_other":	"questionnaire_aap_communication_lang_receive_written_infor_other",          	
+            "language_2":"questionnaire_aap_communication_lang_receive_spoken_infor",
+            "language_2_other":"questionnaire_aap_communication_lang_receive_spoken_infor_other"
+            },
+        "representivity_rating": "high",
+        "variable_quality_rating": "very_high"
+    },
+    {
+        "dataset_name": "REACH Northwest Nigeria MSNA 2022 Data & Analysis",
+        "url": "https://repository.impact-initiatives.org/document/impact/c011a778/REACH-NGA2105-NW-MSNA-Datasets-Analysis.xlsx",
+        "sheet_name":"Dataset I",
+        "language": "en",
+        "datetime_published": "2023-02-07",
+        "scope_geography": "{\"countries\": \"Nigeria\"}",
+        "key_mapping_rules": {
+            "location_0": "state",
+            "location_1": "lga",
+            "location_2": "ward",
+            "sample_weight_0":"weight_both",
+            "sample_weight_1":"weight_group",
+            "sample_weight_2":"",
+            "individuals_value":"n_hh_members",
+            "proportion_value":"",
+            "language_0":"main_language_home",
+            "language_0_other":"other_language",
+            "language_1":"written_info_language",
+            "language_1_other":	"other_written_info",          	
+            "language_2":"preferred_language_spoken_info",
+            "language_2_other":"other_spoken_info"
+            },
+        "representivity_rating": "high",
+        "variable_quality_rating": "very_high"
+    }
+]
