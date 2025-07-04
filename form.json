@@ -35,7 +35,6 @@
         "key_mapping_rules": {
             "location_0": "state",
             "location_1": "lga",
-            "location_2": "ward",
             "sample_weight_0":"weight_both",
             "sample_weight_1":"weight_group",
             "sample_weight_2":"",
